@@ -1,0 +1,6 @@
+/Users/jeonghunkim/Documents/CshapStudy/Algorithm/Algorithm/bin/Debug/Algorithm.exe
+/Users/jeonghunkim/Documents/CshapStudy/Algorithm/Algorithm/bin/Debug/Algorithm.pdb
+/Users/jeonghunkim/Documents/CshapStudy/Algorithm/Algorithm/obj/x86/Debug/Algorithm.csproj.CoreCompileInputs.cache
+/Users/jeonghunkim/Documents/CshapStudy/Algorithm/Algorithm/obj/x86/Debug/Algorithm.exe
+/Users/jeonghunkim/Documents/CshapStudy/Algorithm/Algorithm/obj/x86/Debug/Algorithm.pdb
+/Users/jeonghunkim/Documents/CshapStudy/Algorithm/Algorithm/obj/x86/Debug/Algorithm.csprojAssemblyReference.cache
