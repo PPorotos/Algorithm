@@ -24,3 +24,8 @@
 * 문자열 내마음대로 정하기 : [문제내용](https://programmers.co.kr/learn/courses/30/lessons/12915) / [문제풀이1](https://github.com/PPorotos/Algorithm/blob/master/Algorithm/Algorithm/Level1/Solution15.cs) , [문제풀이2](https://github.com/PPorotos/Algorithm/blob/master/Algorithm/Algorithm/Level1/Solution15_1.cs)
 * K번째 수 : [문제내용](https://programmers.co.kr/learn/courses/30/lessons/42748) / [문제풀이](https://github.com/PPorotos/Algorithm/blob/master/Algorithm/Algorithm/Level1/Solution16.cs)
 * 체육복 : [문제내용](https://programmers.co.kr/learn/courses/30/lessons/42862) / [문제풀이](https://github.com/PPorotos/Algorithm/blob/master/Algorithm/Algorithm/Level1/Solution17.cs)
+
+
+*Level 2*
+
+* 스킬트리 : [문제내용](https://programmers.co.kr/learn/courses/30/lessons/49993) / [문제풀이](https://github.com/PPorotos/Algorithm/blob/master/Algorithm/Algorithm/Level2/Solution2_1.cs)
